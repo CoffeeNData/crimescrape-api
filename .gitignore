@@ -1,0 +1,10 @@
+*.log
+.pytest_cache/
+.venv/
+.vscode/
+__pycache__
+cache/
+downloaded_files/
+testfile.py
+*.tmp
+db/
