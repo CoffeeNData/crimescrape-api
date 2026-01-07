@@ -221,3 +221,8 @@ The results format is similar to what would be expected from the API mode:
     }
 }
 ```
+
+# Development
+- There is documentation available under the /docs directory. New pull requests are accepted, and interaction is encouraged.
+- This repository is thought to be run using PyCharm, and it brings custom configurations out of the box to make it as easy as possible to use and run.
+- This repository was saved and redeveloped from an old personal project. The API is still under development, but is in a working state.
